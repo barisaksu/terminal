@@ -18,7 +18,7 @@ export const Ps1 = () => {
           color: theme.yellow,
         }}
       >
-        guest
+        baris
       </span>
       <span
         style={{

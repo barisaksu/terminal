@@ -12,6 +12,12 @@ export const github = async (args: string[]): Promise<string> => {
   return 'Opening github...';
 };
 
+export const gitlab = async (args: string[]): Promise<string> => {
+  window.open(`https://gitlab.com/${config.social.gitlab}/`);
+
+  return 'Opening gitlab...';
+};
+
 export const linkedin = async (args: string[]): Promise<string> => {
   window.open(`https://www.linkedin.com/in/${config.social.linkedin}/`);
 
