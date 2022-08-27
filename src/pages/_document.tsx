@@ -92,7 +92,7 @@ class MyDocument extends Document {
           <meta name="msapplication-TileColor" content="#262626" />
           <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
           <meta name="theme-color" content="#D79921" />
-          <meta name="description" content="Barış Aksu | Kişisel Terminal" />
+          <meta name="description" content="Laravel, VueJS, NuxtJS, TailwindCSS, Müzik Teknolojileri Kişisel Blog" />
         </Head>
 
         <body>
